@@ -1,0 +1,6 @@
+cesnet-datazoo>=0.2.0
+torch>=2.1
+scikit-learn>=1.3
+numpy
+pandas
+tqdm
